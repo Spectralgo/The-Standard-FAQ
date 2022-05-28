@@ -2,7 +2,7 @@
 
 ## Vidéos:
 
-<img src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [AMA001: Questions About The Standard](https://www.youtube.com/watch?v=1de5nMDj8Ys)
+<img width=20 src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" alt="" data-size="line"> [AMA001: Questions About The Standard](https://www.youtube.com/watch?v=1de5nMDj8Ys)
 
 ## 1. I was looking otripleS solution you are directly exposing domain entities but in my development career I was using viewmodel or DTO’s can you explain us when to use ViewModel or DTO?
 
