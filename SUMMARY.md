@@ -9,7 +9,7 @@
 
 * [0 Introduction](the-standard-wiki/0-introduction/README.md)
   * [0.0 Purposing, Modeling and Simulation](the-standard-wiki/0-introduction/0.0-purposing-modeling-and-simulation.md)
-* [1 Brokers](the-standard-wiki/1-brokers/README.md.md)
+* [1 Brokers](the-standard-wiki/1-brokers/README.md)
 * [2 Services](the-standard-wiki/2-services/README.md)
   * [2.1 Foundation Services (Broker-Neighboring)](the-standard-wiki/2-services/2.1-foundation-services-broker-neighboring.md)
   * [2.2 Processing Services (Higher-Order Business Logic)](the-standard-wiki/2-services/2.2-processing-services-higher-order-business-logic.md)
