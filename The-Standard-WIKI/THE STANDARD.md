@@ -1,11 +1,15 @@
-# Table of contents
+---
+tags:
+# Inspiration 
+- 🍎 
+# Fondation 
+- 🧱 
+aliases: 
+  - The standard - 0
+cssclass: 
+---
 
-* [The-Standard-FAQ](README.md)
-* [The Standard Book](https://github.com/hassanhabib/The-Standard)
-* [Learn more about Hassan Habib](https://hassanhabib.com/)
-* [✏ EDITOR MODE](https://app.gitbook.com/invite/xnkHrW3hLr8Q7LzRfdRW/2gOt8sHU9C35UUyduR7X)
-
-## The Standard WIKI 
+# The Standard WIKI 
 - [0. Introduction](0.%20Introduction.md)
   - [0.0 Purposing, Modeling & Simulation](0.0%20Purposing,%20Modeling%20&%20Simulation.md)
 - [1. Brokers](1.%20Brokers.md)
